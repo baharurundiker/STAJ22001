@@ -9,7 +9,12 @@ _Demeter, ağ güvenliği ve sızma testleri için bir araç setidir. Uygulama, 
 * MAC Adresi Değiştiricisi: Ağ kartının MAC adresini değiştirir.
 * Dosya Şifreleme/Çözme: Dosyaları şifreleyebilir veya şifrelerini çözebilir.
 * Host Keşfi: Ağda bulunan cihazları tespit eder.
+
+  
 ![image](https://github.com/user-attachments/assets/949425f4-e6e4-43b6-962f-bbefac762a03)
 
   Bu uygulama stajımda öğrendiklerimden oluşturduğum eğitim amaçlı bir uygulamadır. Uygulamayı kötü amaçlarla kullanmayınız.
+
+
+
    **deneme** klasöründe ise yine stajımda yaptığım python uygulama denemesidir.
