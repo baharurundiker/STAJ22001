@@ -18,9 +18,9 @@ _Demeter, ağ güvenliği ve sızma testleri için bir araç setidir. Uygulama, 
 **Gereksinimler**
 Demeter'i çalıştırabilmek için aşağıdaki bağımlılıkların yüklü olması gerekmektedir:
 
-*Python 3.10+
-*Scapy
-*lolcat (renkli banner için)
-*figlet (banner için)
+* Python 3.10+
+* Scapy
+* lolcat (renkli banner için)
+* figlet (banner için)
  
    **deneme** klasöründe ise yine stajımda yaptığım python uygulama denemesidir.
